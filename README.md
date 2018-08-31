@@ -2,6 +2,8 @@
 
 A login service for Auth0.
 
+Initially forked from https://github.com/hotello/meteor-accounts-auth0
+
 ## Configuration
 
 As any official Meteor account package, upsert a configuration object:
